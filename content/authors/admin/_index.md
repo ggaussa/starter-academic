@@ -69,4 +69,4 @@ Greg Gaussa is a systems engineer at the Right Hand Technology Group. He has a d
 
 He hopes to utilize this website to document his personal learning journey in hopes to help encourage others to share their experiences, and learning journey.
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
