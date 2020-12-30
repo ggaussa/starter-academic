@@ -49,7 +49,7 @@ social:
   link: https://www.rmu.edu/
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/greggaussa
+  link: https://www.linkedin.com/in/greggaussa/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -65,8 +65,9 @@ email: ""
 highlight_name: false
 ---
 
-Greg Gaussa is a systems engineer at the Right Hand Technology Group. He has a desire to continually learn about Information Technology, and Cyber Security. He graduated from Robert Morris University with a B.S. in Digital Forensics and Information Security in December 2019. 
+Greg Gaussa is a systems engineer at Right Hand Technology Group. He has a desire to continually learn about Information Technology, and Cyber Security. He graduated from Robert Morris University with a B.S. in Digital Forensics and Information Security in December 2019. 
 
 He hopes to utilize this website to document his personal learning journey in hopes to help encourage others to share their experiences, and learning journey.
 
 
+##### This Site is currently in progress!
