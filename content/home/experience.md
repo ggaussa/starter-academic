@@ -22,24 +22,33 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: Service Team Lead
+    company: Right Hand Technology Group
+    company_url: 'https://www.righthandtechnologygroup.com/'
+    location: Pittsburgh, PA 
+    date_start: '2021-05-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Communicating with clients
+        * Maintain and creat documentation
+        * Work with management to ensure SLAs are met. 
+  
+  - title: Systems Engineer
+    company: Right Hand Technology Group
+    company_url: 'https://www.righthandtechnologygroup.com/'
+    location: Pittsburgh, PA 
+    date_start: '2020-12-16'
+    date_end: ''
+    description: Utilize Technical Knowledge to solve client issues
+      
         
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: iOS Senior Advisor 
+    company: Apple Inc
+    company_url: 'https://www.apple.com/'
+    location: Remote
+    date_start: '2014-09-01'
+    date_end: '2020-11-20'
+    description: Used Customer Service and Technical Skills to solve problems with iOS and Mac OS devices. 
 ---
